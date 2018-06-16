@@ -1,0 +1,123 @@
+html, body {height: 100%}
+body
+{
+	background-color: #CCCCCC;
+}
+
+#container
+{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	background-color: #ac00e6;
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	padding: 10px;
+}
+
+#menu
+{
+	background-color: #a6a6a6;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	padding: 10px;
+}
+
+#nav
+{
+	float: left;
+	width: 270px;
+}
+
+.btn
+{
+	width: 100%;
+}
+
+#ad
+{
+	float: left;
+	padding-top: 20px;
+}
+
+#content
+{
+	background-color: #f2f2f2;
+	height: 850px;
+}
+
+#footer
+{
+	background-color: #a6a6a6;
+	min-height: 60px;
+	color: #f2f2f2;
+	font-size: 16px;
+	padding: 5px;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+.f1
+{
+	float: left;
+	position: relative;
+}
+
+.row
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#opis1
+{
+	font-size: 16px;
+	text-align: justify;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-left: 15px;
+}
+
+#opis2
+{
+	float: left;
+	text-align: justify;
+	font-size: 16px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-left: 15px;
+}
+
+#btak
+{
+	background-color: ;
+	color: white;
+	padding: 4px;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+#bnie
+{
+	background-color: ;
+	color: white;
+	padding: 4px;
+	text-decoration: none;
+	display: block;
+	border: 2px, solid;
+	font-size: 18px;
+}
+
+#lista
+{
+	font-size: 22px;
+	padding: 30px;
+	padding-left: 5px;
+	text-align: center;
+}
